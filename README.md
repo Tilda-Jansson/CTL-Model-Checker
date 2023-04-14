@@ -1,3 +1,5 @@
+# CTL Model Checker: Implementing and Verifying a Subset of Temporal Logic CTL
+
 This project implements a model checker for a subset of the temporal logic CTL.
 The model checker verifies if a given temporal logic formula φ holds in a certain state s of a given model M.
 
